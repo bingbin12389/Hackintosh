@@ -11,7 +11,8 @@ Launch UEFI(BIOS) to boot from USB
 Choose install Mac OS -> do the rest of install
 
 # Patch kext & Post install
-read the open core POST install guide
+read the Opencore POST install guide
+https://dortania.github.io/OpenCore-Post-Install/
 
 # Features current support and running
 UHD graphic 630 : patched
